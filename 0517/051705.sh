@@ -1,0 +1,3 @@
+cd
+
+rmdir dir1
