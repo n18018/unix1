@@ -1,3 +1,1 @@
-cd
-
-rmdir dir1 dir2 dir3
+rm -r dir1 dir2 dir3
